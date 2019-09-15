@@ -3,6 +3,12 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# files
+*.gsheet
+*.gdoc
+*.ipynb*
+*.zip
+
 # C extensions
 *.so
 
